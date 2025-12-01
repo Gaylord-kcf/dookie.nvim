@@ -3,9 +3,6 @@ A color scheme inspired by Plan9's acme editor, but with a personal touch.
 
 ![screenshot](screenshot.png)
 
-> [!WARNING]
-> This project is in its early stages. Some highlight groups may be missing.
-
 # Requirements
 - Neovim 0.8 or higher
 
